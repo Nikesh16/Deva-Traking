@@ -1,0 +1,18 @@
+io.flutter.plugins.firebase.messaging.firebase_messaging-jetified-play-services-basement-18.1.0-0 C:\Users\Acer\.gradle\caches\transforms-3\2699fe068b88c3a0bf1487f02c3d2443\transformed\jetified-play-services-basement-18.1.0\res
+io.flutter.plugins.firebase.messaging.firebase_messaging-jetified-annotation-experimental-1.1.0-1 C:\Users\Acer\.gradle\caches\transforms-3\59913117a4f37e977d599719c1ba953b\transformed\jetified-annotation-experimental-1.1.0\res
+io.flutter.plugins.firebase.messaging.firebase_messaging-jetified-window-1.0.0-beta04-2 C:\Users\Acer\.gradle\caches\transforms-3\602d82ab81010d4f53f3665de5974488\transformed\jetified-window-1.0.0-beta04\res
+io.flutter.plugins.firebase.messaging.firebase_messaging-jetified-firebase-messaging-23.3.1-3 C:\Users\Acer\.gradle\caches\transforms-3\a4616e8e3a13421cd332418eec075bf7\transformed\jetified-firebase-messaging-23.3.1\res
+io.flutter.plugins.firebase.messaging.firebase_messaging-jetified-play-services-base-18.0.1-4 C:\Users\Acer\.gradle\caches\transforms-3\aa62ce920e7605337002e9c16b152854\transformed\jetified-play-services-base-18.0.1\res
+io.flutter.plugins.firebase.messaging.firebase_messaging-core-1.6.0-5 C:\Users\Acer\.gradle\caches\transforms-3\bbef6393f7da75345152ef041c08fbc1\transformed\core-1.6.0\res
+io.flutter.plugins.firebase.messaging.firebase_messaging-jetified-window-java-1.0.0-beta04-6 C:\Users\Acer\.gradle\caches\transforms-3\bed550b5b03eaf86d0561ca98650ecf8\transformed\jetified-window-java-1.0.0-beta04\res
+io.flutter.plugins.firebase.messaging.firebase_messaging-localbroadcastmanager-1.1.0-7 C:\Users\Acer\.gradle\caches\transforms-3\ee1eb1a2b02ad3a419b7a8a86c56cdc2\transformed\localbroadcastmanager-1.1.0\res
+io.flutter.plugins.firebase.messaging.firebase_messaging-jetified-firebase-common-20.4.2-8 C:\Users\Acer\.gradle\caches\transforms-3\f7f8ffe561f8133f019c028446e27333\transformed\jetified-firebase-common-20.4.2\res
+io.flutter.plugins.firebase.messaging.firebase_messaging-main-9 C:\Users\Acer\AppData\Local\Pub\Cache\hosted\pub.dev\firebase_messaging-14.7.5\android\src\main\res
+io.flutter.plugins.firebase.messaging.firebase_messaging-release-10 C:\Users\Acer\AppData\Local\Pub\Cache\hosted\pub.dev\firebase_messaging-14.7.5\android\src\release\res
+io.flutter.plugins.firebase.messaging.firebase_messaging-packaged_res-11 E:\Swara\Deva Tracking\build\firebase_core\intermediates\packaged_res\release
+io.flutter.plugins.firebase.messaging.firebase_messaging-pngs-12 E:\Swara\Deva Tracking\build\firebase_messaging\generated\res\pngs\release
+io.flutter.plugins.firebase.messaging.firebase_messaging-resValues-13 E:\Swara\Deva Tracking\build\firebase_messaging\generated\res\resValues\release
+io.flutter.plugins.firebase.messaging.firebase_messaging-rs-14 E:\Swara\Deva Tracking\build\firebase_messaging\generated\res\rs\release
+io.flutter.plugins.firebase.messaging.firebase_messaging-mergeReleaseResources-15 E:\Swara\Deva Tracking\build\firebase_messaging\intermediates\incremental\release\mergeReleaseResources\merged.dir
+io.flutter.plugins.firebase.messaging.firebase_messaging-mergeReleaseResources-16 E:\Swara\Deva Tracking\build\firebase_messaging\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+io.flutter.plugins.firebase.messaging.firebase_messaging-merged_res-17 E:\Swara\Deva Tracking\build\firebase_messaging\intermediates\merged_res\release

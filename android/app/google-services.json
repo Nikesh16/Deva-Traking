@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "487083608233",
+    "project_id": "flutterappsetup",
+    "storage_bucket": "flutterappsetup.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:487083608233:android:33f5d591122f6be70c81b8",
+        "android_client_info": {
+          "package_name": "kushalpandey.com.np"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2z_BkK5DFTyNe7IExXzd0CGXHfszZkxU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,24 @@
+io.flutter.plugins.imagepicker.image_picker_android-jetified-startup-runtime-1.1.1-0 C:\Users\Acer\.gradle\caches\transforms-3\275399527fd05321fc3bfccacdcef58b\transformed\jetified-startup-runtime-1.1.1\res
+io.flutter.plugins.imagepicker.image_picker_android-core-runtime-2.2.0-1 C:\Users\Acer\.gradle\caches\transforms-3\2b54c08157af7ececf8ed20ca6b8cbbe\transformed\core-runtime-2.2.0\res
+io.flutter.plugins.imagepicker.image_picker_android-jetified-profileinstaller-1.3.0-2 C:\Users\Acer\.gradle\caches\transforms-3\2c7fdcb9c163c17a8a58924fc596c9b7\transformed\jetified-profileinstaller-1.3.0\res
+io.flutter.plugins.imagepicker.image_picker_android-core-1.10.1-3 C:\Users\Acer\.gradle\caches\transforms-3\2f19b4594794c4aa543f47afe3effb7c\transformed\core-1.10.1\res
+io.flutter.plugins.imagepicker.image_picker_android-jetified-annotation-experimental-1.3.0-4 C:\Users\Acer\.gradle\caches\transforms-3\423cdfb305412bec1964803d0c28e040\transformed\jetified-annotation-experimental-1.3.0\res
+io.flutter.plugins.imagepicker.image_picker_android-jetified-savedstate-1.2.1-5 C:\Users\Acer\.gradle\caches\transforms-3\4c991d7d22ff60c3328fb2f03355b0e5\transformed\jetified-savedstate-1.2.1\res
+io.flutter.plugins.imagepicker.image_picker_android-jetified-core-ktx-1.10.1-6 C:\Users\Acer\.gradle\caches\transforms-3\5f99795a946746ef3dfc826848ccdc47\transformed\jetified-core-ktx-1.10.1\res
+io.flutter.plugins.imagepicker.image_picker_android-jetified-window-1.0.0-beta04-7 C:\Users\Acer\.gradle\caches\transforms-3\602d82ab81010d4f53f3665de5974488\transformed\jetified-window-1.0.0-beta04\res
+io.flutter.plugins.imagepicker.image_picker_android-jetified-lifecycle-viewmodel-savedstate-2.6.1-8 C:\Users\Acer\.gradle\caches\transforms-3\6605e0f2c806beacd134a9b416e55628\transformed\jetified-lifecycle-viewmodel-savedstate-2.6.1\res
+io.flutter.plugins.imagepicker.image_picker_android-lifecycle-livedata-2.6.1-9 C:\Users\Acer\.gradle\caches\transforms-3\89c461df6fc2878aa9d6e564faec73bb\transformed\lifecycle-livedata-2.6.1\res
+io.flutter.plugins.imagepicker.image_picker_android-lifecycle-viewmodel-2.6.1-10 C:\Users\Acer\.gradle\caches\transforms-3\8a2ecf5aa876a2637eca9b394627808c\transformed\lifecycle-viewmodel-2.6.1\res
+io.flutter.plugins.imagepicker.image_picker_android-lifecycle-livedata-core-2.6.1-11 C:\Users\Acer\.gradle\caches\transforms-3\a93a69833188df871b46b1254e7437f4\transformed\lifecycle-livedata-core-2.6.1\res
+io.flutter.plugins.imagepicker.image_picker_android-lifecycle-runtime-2.6.1-12 C:\Users\Acer\.gradle\caches\transforms-3\b8b3f0d00f5f993a5890c2ef03b298c1\transformed\lifecycle-runtime-2.6.1\res
+io.flutter.plugins.imagepicker.image_picker_android-jetified-window-java-1.0.0-beta04-13 C:\Users\Acer\.gradle\caches\transforms-3\bed550b5b03eaf86d0561ca98650ecf8\transformed\jetified-window-java-1.0.0-beta04\res
+io.flutter.plugins.imagepicker.image_picker_android-jetified-activity-1.7.2-14 C:\Users\Acer\.gradle\caches\transforms-3\fd81239ea80ba6f5d19401aec6845bea\transformed\jetified-activity-1.7.2\res
+io.flutter.plugins.imagepicker.image_picker_android-main-15 C:\Users\Acer\AppData\Local\Pub\Cache\hosted\pub.dev\image_picker_android-0.8.9+3\android\src\main\res
+io.flutter.plugins.imagepicker.image_picker_android-release-16 C:\Users\Acer\AppData\Local\Pub\Cache\hosted\pub.dev\image_picker_android-0.8.9+3\android\src\release\res
+io.flutter.plugins.imagepicker.image_picker_android-packaged_res-17 E:\Swara\Deva Tracking\build\flutter_plugin_android_lifecycle\intermediates\packaged_res\release
+io.flutter.plugins.imagepicker.image_picker_android-pngs-18 E:\Swara\Deva Tracking\build\image_picker_android\generated\res\pngs\release
+io.flutter.plugins.imagepicker.image_picker_android-resValues-19 E:\Swara\Deva Tracking\build\image_picker_android\generated\res\resValues\release
+io.flutter.plugins.imagepicker.image_picker_android-rs-20 E:\Swara\Deva Tracking\build\image_picker_android\generated\res\rs\release
+io.flutter.plugins.imagepicker.image_picker_android-mergeReleaseResources-21 E:\Swara\Deva Tracking\build\image_picker_android\intermediates\incremental\release\mergeReleaseResources\merged.dir
+io.flutter.plugins.imagepicker.image_picker_android-mergeReleaseResources-22 E:\Swara\Deva Tracking\build\image_picker_android\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+io.flutter.plugins.imagepicker.image_picker_android-merged_res-23 E:\Swara\Deva Tracking\build\image_picker_android\intermediates\merged_res\release

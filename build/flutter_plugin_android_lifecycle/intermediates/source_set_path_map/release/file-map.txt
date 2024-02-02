@@ -1,0 +1,12 @@
+io.flutter.plugins.flutter_plugin_android_lifecycle-jetified-annotation-experimental-1.1.0-0 C:\Users\Acer\.gradle\caches\transforms-3\59913117a4f37e977d599719c1ba953b\transformed\jetified-annotation-experimental-1.1.0\res
+io.flutter.plugins.flutter_plugin_android_lifecycle-jetified-window-1.0.0-beta04-1 C:\Users\Acer\.gradle\caches\transforms-3\602d82ab81010d4f53f3665de5974488\transformed\jetified-window-1.0.0-beta04\res
+io.flutter.plugins.flutter_plugin_android_lifecycle-core-1.6.0-2 C:\Users\Acer\.gradle\caches\transforms-3\bbef6393f7da75345152ef041c08fbc1\transformed\core-1.6.0\res
+io.flutter.plugins.flutter_plugin_android_lifecycle-jetified-window-java-1.0.0-beta04-3 C:\Users\Acer\.gradle\caches\transforms-3\bed550b5b03eaf86d0561ca98650ecf8\transformed\jetified-window-java-1.0.0-beta04\res
+io.flutter.plugins.flutter_plugin_android_lifecycle-main-4 C:\Users\Acer\AppData\Local\Pub\Cache\hosted\pub.dev\flutter_plugin_android_lifecycle-2.0.17\android\src\main\res
+io.flutter.plugins.flutter_plugin_android_lifecycle-release-5 C:\Users\Acer\AppData\Local\Pub\Cache\hosted\pub.dev\flutter_plugin_android_lifecycle-2.0.17\android\src\release\res
+io.flutter.plugins.flutter_plugin_android_lifecycle-pngs-6 E:\Swara\Deva Tracking\build\flutter_plugin_android_lifecycle\generated\res\pngs\release
+io.flutter.plugins.flutter_plugin_android_lifecycle-resValues-7 E:\Swara\Deva Tracking\build\flutter_plugin_android_lifecycle\generated\res\resValues\release
+io.flutter.plugins.flutter_plugin_android_lifecycle-rs-8 E:\Swara\Deva Tracking\build\flutter_plugin_android_lifecycle\generated\res\rs\release
+io.flutter.plugins.flutter_plugin_android_lifecycle-mergeReleaseResources-9 E:\Swara\Deva Tracking\build\flutter_plugin_android_lifecycle\intermediates\incremental\release\mergeReleaseResources\merged.dir
+io.flutter.plugins.flutter_plugin_android_lifecycle-mergeReleaseResources-10 E:\Swara\Deva Tracking\build\flutter_plugin_android_lifecycle\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+io.flutter.plugins.flutter_plugin_android_lifecycle-merged_res-11 E:\Swara\Deva Tracking\build\flutter_plugin_android_lifecycle\intermediates\merged_res\release

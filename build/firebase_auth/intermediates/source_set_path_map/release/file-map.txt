@@ -1,0 +1,17 @@
+io.flutter.plugins.firebase.auth.firebase_auth-browser-1.4.0-0 C:\Users\Acer\.gradle\caches\transforms-3\18706de554ced4ce1c9cb19b65f7a1a7\transformed\browser-1.4.0\res
+io.flutter.plugins.firebase.auth.firebase_auth-jetified-play-services-basement-18.1.0-1 C:\Users\Acer\.gradle\caches\transforms-3\2699fe068b88c3a0bf1487f02c3d2443\transformed\jetified-play-services-basement-18.1.0\res
+io.flutter.plugins.firebase.auth.firebase_auth-jetified-annotation-experimental-1.1.0-2 C:\Users\Acer\.gradle\caches\transforms-3\59913117a4f37e977d599719c1ba953b\transformed\jetified-annotation-experimental-1.1.0\res
+io.flutter.plugins.firebase.auth.firebase_auth-jetified-window-1.0.0-beta04-3 C:\Users\Acer\.gradle\caches\transforms-3\602d82ab81010d4f53f3665de5974488\transformed\jetified-window-1.0.0-beta04\res
+io.flutter.plugins.firebase.auth.firebase_auth-jetified-play-services-base-18.0.1-4 C:\Users\Acer\.gradle\caches\transforms-3\aa62ce920e7605337002e9c16b152854\transformed\jetified-play-services-base-18.0.1\res
+io.flutter.plugins.firebase.auth.firebase_auth-core-1.6.0-5 C:\Users\Acer\.gradle\caches\transforms-3\bbef6393f7da75345152ef041c08fbc1\transformed\core-1.6.0\res
+io.flutter.plugins.firebase.auth.firebase_auth-jetified-window-java-1.0.0-beta04-6 C:\Users\Acer\.gradle\caches\transforms-3\bed550b5b03eaf86d0561ca98650ecf8\transformed\jetified-window-java-1.0.0-beta04\res
+io.flutter.plugins.firebase.auth.firebase_auth-jetified-firebase-common-20.4.2-7 C:\Users\Acer\.gradle\caches\transforms-3\f7f8ffe561f8133f019c028446e27333\transformed\jetified-firebase-common-20.4.2\res
+io.flutter.plugins.firebase.auth.firebase_auth-main-8 C:\Users\Acer\AppData\Local\Pub\Cache\hosted\pub.dev\firebase_auth-4.14.1\android\src\main\res
+io.flutter.plugins.firebase.auth.firebase_auth-release-9 C:\Users\Acer\AppData\Local\Pub\Cache\hosted\pub.dev\firebase_auth-4.14.1\android\src\release\res
+io.flutter.plugins.firebase.auth.firebase_auth-pngs-10 E:\Swara\Deva Tracking\build\firebase_auth\generated\res\pngs\release
+io.flutter.plugins.firebase.auth.firebase_auth-resValues-11 E:\Swara\Deva Tracking\build\firebase_auth\generated\res\resValues\release
+io.flutter.plugins.firebase.auth.firebase_auth-rs-12 E:\Swara\Deva Tracking\build\firebase_auth\generated\res\rs\release
+io.flutter.plugins.firebase.auth.firebase_auth-mergeReleaseResources-13 E:\Swara\Deva Tracking\build\firebase_auth\intermediates\incremental\release\mergeReleaseResources\merged.dir
+io.flutter.plugins.firebase.auth.firebase_auth-mergeReleaseResources-14 E:\Swara\Deva Tracking\build\firebase_auth\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+io.flutter.plugins.firebase.auth.firebase_auth-merged_res-15 E:\Swara\Deva Tracking\build\firebase_auth\intermediates\merged_res\release
+io.flutter.plugins.firebase.auth.firebase_auth-packaged_res-16 E:\Swara\Deva Tracking\build\firebase_core\intermediates\packaged_res\release
