@@ -13,7 +13,6 @@ class UserRequest extends ApiBase {
   Future<Response> generate({required Map<String, dynamic> generate}) async {
     final response =
         await postRequestWithToken(path: AppEndpoint.code, data: generate);
-    print(response);
 
     return response;
   }
@@ -30,7 +29,6 @@ class UserRequest extends ApiBase {
     final response = await getRequest(
       path: AppEndpoint.message,
     );
-    print(response);
 
     return response;
   }
@@ -58,8 +56,8 @@ class UserRequest extends ApiBase {
 
   Future<Response> deleteusermsg(
       {required Map<String, dynamic> deletedatamsg}) async {
-    final response = await deleteWithToken(
-        path: "${AppEndpoint.deletemsg}", data: deletedatamsg);
+    final response =
+        await deleteWithToken(path: AppEndpoint.deletemsg, data: deletedatamsg);
 
     return response;
   }
@@ -68,7 +66,6 @@ class UserRequest extends ApiBase {
       {required Map<String, dynamic> registerForm}) async {
     final response = await postRequestWithoutToken(
         path: AppEndpoint.register, data: registerForm);
-    print(response);
 
     return response;
   }
@@ -83,7 +80,6 @@ class UserRequest extends ApiBase {
   Future<Response> picMsg({dynamic message}) async {
     final response =
         await postRequestWithToken(path: AppEndpoint.message, data: message);
-    print(response);
 
     return response;
   }

@@ -38,7 +38,6 @@ class _StaffScreenState extends State<StaffScreen> {
     setState(() {
       userType = userTypesaved;
     });
-    print(userType);
   }
 
   @override
@@ -77,14 +76,12 @@ class _StaffScreenState extends State<StaffScreen> {
                       ? "https://${member.photo}"
                       : AppConstant.userPlaceholderImage;
 
-                  print(member.photo);
                   return TilePlayerScreen(
                     subtitle: member.position ?? "",
                     title: member.name ?? "",
                     imageUrl: imageUrl,
                     iconData1: isAdmin ? Icons.delete : null,
                     delete1: () {
-                      print("tapped");
                       userProv
                           .deleteuser(id: member.id.toString())
                           .then((value) {

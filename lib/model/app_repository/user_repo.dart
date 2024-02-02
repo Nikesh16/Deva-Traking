@@ -1,8 +1,9 @@
+// ignore_for_file: unnecessary_brace_in_string_interps
+
 import 'package:bot_toast/bot_toast.dart';
 import 'package:dio/dio.dart';
 import 'package:Deva_Tracking/model/app_models/memberList.dart';
 import 'package:Deva_Tracking/view/components/custom_bottoast.dart';
-import 'package:Deva_Tracking/view/screens/base_page.dart';
 import 'package:Deva_Tracking/view_model/config/storage.dart';
 import 'package:Deva_Tracking/view_model/utils/constant.dart';
 import 'package:fpdart/fpdart.dart';
@@ -27,12 +28,6 @@ class UserRepository {
       String? userType = response.data?["user"]?["type"].toString();
       String? userName = response.data["user"]?["name"].toString();
       String? id = response.data["user"]?["id"].toString();
-      print("0000000000000000000");
-      print(userType);
-      print(accessToken);
-      print(userName);
-      print(id);
-      print("0000000000000000000");
 
       if (accessToken != null) {
         SecureStorage.setData(AppConstant.accessToken, accessToken);
@@ -44,20 +39,13 @@ class UserRepository {
         SecureStorage.setData(AppConstant.username, userName);
       }
       String? photo = response.data["user"]?["photo"].toString();
-      print("0000000000000000000");
 
-      print(photo);
-      print("0000000000000000000");
       if (photo != null) {
-        final photof = "https://${photo}";
-        print(photof);
+        final photof = "https://$photo";
         SecureStorage.setData(AppConstant.photo1, photof);
       }
 
-      print(id);
-      print("0000000000000000000");
       if (id != null) {
-        print(id);
         SecureStorage.setData(AppConstant.id, id);
       }
 
@@ -65,7 +53,6 @@ class UserRepository {
     } on DioException catch (e) {
       BotToast.closeAllLoading();
       showBotToast(text: "${e.response?.data["message"]}", isError: true);
-      print(e.response);
 
       return left(e.toString());
     } catch (e) {
@@ -132,7 +119,6 @@ class UserRepository {
     } on DioException catch (e) {
       BotToast.closeAllLoading();
       showBotToast(text: "${e.response?.data["message"]}", isError: true);
-      print(e.response);
 
       return left(e.toString());
     } catch (e) {
@@ -258,13 +244,9 @@ class UserRepository {
       // showBotToast(text: "профиль успешно обновлен");
 
       String? photo = response.data["data"]?["photo"].toString();
-      print("0000000000000000000");
 
-      print(photo);
-      print("0000000000000000000");
       if (photo != null) {
         final photof = "https://${photo}";
-        print(photof);
         SecureStorage.setData(AppConstant.photo1, photof);
       }
 

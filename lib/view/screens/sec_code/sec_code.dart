@@ -133,7 +133,7 @@ class _SecretCodeState extends State<SecretCode> {
                                     .then((value) {
                                   if (value) {
                                     // context.push(BasePage.routeName);
-                                    print(value);
+
                                     showDialog(
                                         context: context,
                                         builder: (context) {
@@ -290,7 +290,6 @@ class _SecretCodeState extends State<SecretCode> {
                             "from": fromDate.text,
                             "to": todate.text,
                           };
-                          print(deletedatamsg);
 
                           userProv
                               .deleteusermsg(deletedatamsg: deletedatamsg)

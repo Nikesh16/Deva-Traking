@@ -542,7 +542,7 @@ class _chatState extends State<chat> {
                                   message.message!.isNotEmpty)
                                 Text(
                                   message.message ?? "",
-                                  style: TextStyle(color: Colors.white),
+                                  style: const TextStyle(color: Colors.white),
                                 ),
                               if (message.messageImage != null &&
                                   message.messageImage!.isNotEmpty)

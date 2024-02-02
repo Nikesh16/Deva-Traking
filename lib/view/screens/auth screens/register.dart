@@ -332,11 +332,9 @@ class _RegisterScreenState extends State<RegisterScreen> {
                                   confirmPasswordController.text,
                               "secret_code": codeController.text,
                             };
-                            print(register);
 
                             userProv.register(register: register).then((value) {
                               if (value) {
-                                print(value);
                                 showDialog(
                                     context: context,
                                     builder: (context) {
